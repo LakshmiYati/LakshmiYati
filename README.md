@@ -5,6 +5,5 @@
 - 📫 How to reach me Sohan.yati@gmail.com
 
 <!---
-LakshmiYati/LakshmiYati is a Business Analyst special and likes to explore Technology repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+LakshmiYati/LakshmiYati is a Business Analyst special and likes to explore Technology repository because its `Awesome` (this file) 
 --->
